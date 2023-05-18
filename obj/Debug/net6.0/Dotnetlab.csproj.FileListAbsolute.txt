@@ -1,0 +1,15 @@
+C:\Users\uSer\Desktop\Dotnetlab\bin\Debug\net6.0\Dotnetlab.exe
+C:\Users\uSer\Desktop\Dotnetlab\bin\Debug\net6.0\Dotnetlab.deps.json
+C:\Users\uSer\Desktop\Dotnetlab\bin\Debug\net6.0\Dotnetlab.runtimeconfig.json
+C:\Users\uSer\Desktop\Dotnetlab\bin\Debug\net6.0\Dotnetlab.dll
+C:\Users\uSer\Desktop\Dotnetlab\bin\Debug\net6.0\Dotnetlab.pdb
+C:\Users\uSer\Desktop\Dotnetlab\obj\Debug\net6.0\Dotnetlab.csproj.AssemblyReference.cache
+C:\Users\uSer\Desktop\Dotnetlab\obj\Debug\net6.0\Dotnetlab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uSer\Desktop\Dotnetlab\obj\Debug\net6.0\Dotnetlab.AssemblyInfoInputs.cache
+C:\Users\uSer\Desktop\Dotnetlab\obj\Debug\net6.0\Dotnetlab.AssemblyInfo.cs
+C:\Users\uSer\Desktop\Dotnetlab\obj\Debug\net6.0\Dotnetlab.csproj.CoreCompileInputs.cache
+C:\Users\uSer\Desktop\Dotnetlab\obj\Debug\net6.0\Dotnetlab.dll
+C:\Users\uSer\Desktop\Dotnetlab\obj\Debug\net6.0\refint\Dotnetlab.dll
+C:\Users\uSer\Desktop\Dotnetlab\obj\Debug\net6.0\Dotnetlab.pdb
+C:\Users\uSer\Desktop\Dotnetlab\obj\Debug\net6.0\Dotnetlab.genruntimeconfig.cache
+C:\Users\uSer\Desktop\Dotnetlab\obj\Debug\net6.0\ref\Dotnetlab.dll
